@@ -60,8 +60,8 @@ section#redes-sociais img:hover {
     transition: transform 0.5s;
 }
 
-  @media (max-width: 500px) {
+  @media (max-width: 380px) {
     section#redes-sociais img {
-        width: 30px;
+        width: 25px;
     }
 }
