@@ -42,7 +42,7 @@ iframe#tela {
 }
 
 section#redes-sociais {
-    text-align: right;
+    text-align: center;
 }
 
 section#redes-sociais img {
@@ -60,9 +60,9 @@ section#redes-sociais img:hover {
     transition: transform 0.5s;
 }
 
-@media (max-width:400px) {
+/*@media (max-width: 800px) {
     section#redes-sociais {
         margin-top: 50px;
         text-align: center;
     }
-}
+}*/
