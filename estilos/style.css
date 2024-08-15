@@ -46,7 +46,7 @@ section#redes-sociais {
 }
 
 section#redes-sociais img {
-    width: 30px;
+    width: 50px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
@@ -60,9 +60,8 @@ section#redes-sociais img:hover {
     transition: transform 0.5s;
 }
 
-/*@media (max-width: 800px) {
-    section#redes-sociais {
-        margin-top: 50px;
-        text-align: center;
+  @media (max-width: 500px) {
+    section#redes-sociais img {
+        width: 30px;
     }
-}*/
+}
